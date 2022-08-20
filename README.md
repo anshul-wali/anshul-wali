@@ -1,4 +1,4 @@
-### Hi there 👋, Anshul Wali
+### Hi there 👋
 About Me 🙋‍♂️: 
 
 I am Anshul Wali, a student at Savitribai Phule University pursuing a Bachelor of Engineering in Computer Science & Engineering.
