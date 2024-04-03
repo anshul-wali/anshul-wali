@@ -43,10 +43,10 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=linux,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
-</div> --->
+</div> 
 
 <br/>
-<hr/>
+<hr/> --->
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
