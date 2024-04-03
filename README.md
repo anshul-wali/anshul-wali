@@ -58,7 +58,7 @@
 
 <hr/>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+
 <br>
 <div align=center>
   
@@ -72,12 +72,10 @@
 <br/><br/>
 
 <hr/>
-
+<br/>
 <br/>
 
-
-<br/>
-
+<h2 align="center">⚡ Stats ⚡</h2>
 <!--- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshul-wali)](https://github.com/anuraghazra/github-readme-stats) --->
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=anshul-wali&theme=neon&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshul-wali&show_icons=true&bg_color=00000000)
