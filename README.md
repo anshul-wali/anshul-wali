@@ -30,6 +30,10 @@
     <a href="https://tryhackme.com/p/anxul" target="_blank">
     <img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white" target="_blank" />
   </a>
+  <a>
+    <a href="https://play.picoctf.org/users/Anshul_Wali" target="blank">
+    <img src="[![PicoCTF](https://img.shields.io/badge/PicoCTF-Participant-blueviolet)](https://picoctf.org/)"/>
+  </a>
 </div>
 
  <hr/>
