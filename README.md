@@ -35,8 +35,6 @@
     <img src="[![PicoCTF](https://img.shields.io/badge/PicoCTF-Participant-blueviolet)](https://picoctf.org/)"/>
   </a>
 </div>
-
- <hr/>
  
 <!--- <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -45,7 +43,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
 </div> --->
 
-<br/> 
 <hr/> 
 
 <div align="center">
