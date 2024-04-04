@@ -64,10 +64,10 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <div align="center" >
-    <img width=390 src="https://github-readme-stats.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=anshul-wali&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
     <img width=390 src="https://streak-stats.demolab.com/api?username=anshul-wali&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com?user=anshul-wali&theme=neon&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshul-wali&show_icons=true&theme=radical)
-<!---![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshul-wali&show_icons=true&bg_color=00000000) --->
+<!--- [![GitHub Streak](https://streak-stats.demolab.com?user=anshul-wali&theme=neon&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshul-wali&show_icons=true&theme=radical) #
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anshul-wali&show_icons=true&bg_color=00000000) --->
 
